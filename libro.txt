@@ -1,6 +1,6 @@
 ----------------------- libro.txt -----------------------
 EL LIBRO MAS FAMOSO DEL MUNDO
-AUTORES:
+AUTORES:DIEGO Y CRISTIAN
 CAPITULO UNO
 CAPITULO DOS
 CAPITULO TRES
