@@ -95,3 +95,13 @@ _Lab01_
 		END;
 		/
     ```
+    # Learn Git Branching
+    ## Main Session
+    ![Main Session][2]
+
+    [2]:https://github.com/DiegoGonzalez2807/lab1-cvds/blob/master/Cristian%20Castellanos/SharedScreenshot.jpg "Main Session"
+    
+    ## Remote Session
+    ![Main Session][3]
+
+    [3]:https://github.com/DiegoGonzalez2807/lab1-cvds/blob/master/Cristian%20Castellanos/Remote.jpg "Main Session"
