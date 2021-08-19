@@ -86,3 +86,6 @@ def main():
 ### Sección Main
 ![Image](https://github.com/DiegoGonzalez2807/lab1-cvds/blob/master/Diego%20Gonzalez/Resources/Seccion_Main.png) 
 
+### Sección Remote
+![Image](https://github.com/DiegoGonzalez2807/lab1-cvds/blob/master/Diego%20Gonzalez/Resources/Seccion_Remote.png)
+
