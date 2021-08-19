@@ -82,6 +82,7 @@ def main():
     a, b = int(numbers[0]), int(numbers[1])
     print(MCD(a,b))
 ```
-
-
+## Learn Git Branching
+### Sección Main
+![Image](https://github.com/DiegoGonzalez2807/lab1-cvds/blob/master/Diego%20Gonzalez/Resources/Seccion_Main.png) 
 
